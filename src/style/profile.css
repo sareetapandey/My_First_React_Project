@@ -1,0 +1,28 @@
+/* Profile.css */
+
+.cv-container {
+  max-width: 60 px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cv-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cv-header-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.cv-section {
+  margin-bottom: 20px;
+}
+
+/* Add more styles as needed */
